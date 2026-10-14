@@ -30,11 +30,6 @@ I build websites and management systems, analyze data, and design graphics. I en
 
 ## 🚀 Projects
 
-| Project | Description |
-|---|---|
-| 🏥 [**Clinic Management System**](https://github.com/emmason-211/clinic-management-system) | Manage patients, appointments, records, and clinic operations. |
-| 🎓 [**Student Management System**](https://github.com/emmason-211/student-management-system) | Handle student records, courses, and academic information. |
-| 📚 [**Online Library Management System**](https://github.com/emmason-211/online-library-management-system) | Catalog books, manage members, and track borrowing online. |
 
 ---
 
