@@ -29,6 +29,7 @@ I build websites and management systems, analyze data, and design graphics. I en
 ---
 
 ## 🚀 Projects
+-[clinic-management-system] (https://github.com/emmason-211/clinic-system)
 
 
 ---
