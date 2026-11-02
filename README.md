@@ -48,7 +48,7 @@ I'm a full-stack developer, branding solutions and designer who like enjoying tu
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/emmasongrahics211)
 
 📧 jada21656@gmail.com  
-📧 emmasonpio@gmail.com
+📧 emmasonpio@gmail.com ---
 📱 +251-974083953
 
 ---
