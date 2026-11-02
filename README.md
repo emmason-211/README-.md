@@ -1,6 +1,6 @@
 # Hi, I'm Emmanuel Jada 👋
 
-### Web Developer | Software Developer | Data Analyst | Graphic Designer
+## Web Developer | Software Developer | Data Analyst | Graphic Designer
 
 I build websites and management systems, analyze data, and design graphics. I enjoy turning real-world problems into simple, working software.
 
