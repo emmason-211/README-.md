@@ -5,8 +5,10 @@
 I build websites and management systems, analyze data, and design graphics. I enjoy turning real-world problems into simple, working software.
 
 ---
-## About Me!
-I'm so personate about my vision on building real-problems to real world solutions. 
+## About Me
+I'm Emmanuel Jada Pelgrino, a graduation with Bachelor of Science in Information and Communication Technology (BSc ICT) from the Ethiopian Technical Excellence Institute. So passionate about technology.
+
+I'm a full-stack developer, branding solutions and designer who like enjoying turning real-world problems into simple working values for community.
 
 ## 💼 What I Do
 
