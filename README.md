@@ -5,6 +5,8 @@
 I build websites and management systems, analyze data, and design graphics. I enjoy turning real-world problems into simple, working software.
 
 ---
+## About Me!
+I'm so personate about my vision on building real-problems to real world solutions. 
 
 ## 💼 What I Do
 
