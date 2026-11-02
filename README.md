@@ -19,7 +19,7 @@ I'm a full-stack developer, branding solutions and designer who like enjoying tu
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Key Skills
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -32,7 +32,7 @@ I'm a full-stack developer, branding solutions and designer who like enjoying tu
 
 ---
 
-## 🚀 Projects
+## 🚀 Top Projects
 -[clinic-management-system] (https://github.com/emmason-211/clinic-system)<br>
 -[banking-management-system] (https://github.com/emmason-211/KCB_bank)<br>
 -[Real-Estate property-] (https://github.com/emmason-211/Real_Estate)<br>
